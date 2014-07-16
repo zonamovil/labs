@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">HolaMundo</string>
+    <string name="st_hola_mundo">Hol Mundo ..</string>
+     <string name="hello">
+        When the app is started\n
+		The user hits the “Back” button\n
+		The user hits the “Home” key\n
+		The screen falls asleep\n
+		The screen wakes up to the app\n
+		Something gets launched over this app\n
+		Screen orientation changes
+	</string>
+    
+
+</resources>
